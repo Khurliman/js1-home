@@ -16,7 +16,7 @@ console.log('Пример 3: 12*3=36. Ваш ответ ' + multi);
 var division = +prompt('Сколько будет 15/3 ?')
 console.log('Пример 4: 15/3=5. Ваш ответ ' + division);
 
-var remain = +prompt('Сколько будет 17%3 (остаток от деления) ?')
+var remain = +prompt('Сколько будет 17%3 (т.е. остаток от деления) ?')
 console.log('Пример 5: 17%3=2. Ваш ответ ' + remain);
 
 var open = 'Нажмите Ctrl+Shift+I и откройте консольное окно'
